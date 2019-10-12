@@ -104,3 +104,4 @@ Download from [here](https://mega.nz/#!Cx8h0KSB!bIHrX8l6MKdQQeDOh5h7SQbJn6xjeR9l
 cd /home/$USER/Downloads/
 sudo pacman -U wine-tkg-staging-fsync-faudio-git-4.17.r11.gd4326087-208-x86_64.pkg.tar.xz
 ```
+## **MAKE SURE TO REBOOT AFTER INSTALLING**
