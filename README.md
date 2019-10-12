@@ -70,7 +70,7 @@ Lutris esync (+staging +pba) builds are currently created using this pkgbuild - 
 
 Download the source :
 
-Download the build files from [here]() and then extract them
+Download the build files from [here](https://mega.nz/#!bglRmApK!INjCp0KUTIjUdZ4IFZsK-jbEucxOKXKvP4LZBzevXX8) and then extract them
 ```
 cp -r Downloads/tar xvzf Build-Files-BeanGreen247-Custom-Wine-Build.tar.gz $pwd
 tar xvzf Build-Files-BeanGreen247-Custom-Wine-Build.tar.gz
@@ -95,7 +95,7 @@ sudo pacman -Sy giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gn
 ```
 ## Install already built package 
 
-Download from [here]()
+Download from [here](https://mega.nz/#!Cx8h0KSB!bIHrX8l6MKdQQeDOh5h7SQbJn6xjeR9lWiE1hivplPY)
 ```
 cd /home/$USER/Downloads/
 sudo pacman -U wine-tkg-staging-fsync-faudio-git-4.17.r11.gd4326087-208-x86_64.pkg.tar.xz
