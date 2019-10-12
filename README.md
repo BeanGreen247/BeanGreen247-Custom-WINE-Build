@@ -95,7 +95,7 @@ sudo pacman -Sy giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gn
 ```
 And these using yay
 ```
-yay -S libdrm libglvnd libomxil-bellagio libunwind libva libvdpau libx11 libxdamage libxml2 libxrandr libxshmfence libxxf86vm llvm lm_sensors meson xorgproto python-mako valgrind wayland wayland-protocols libelf libomxil-bellagio libunwind libxdamage libxshmfence libxxf86vm llvm-libs lm_sensors wayland libva-mesa-driver mesa-vdpau opengl-man-pages clang xorgproto elfutils glslang libclc libdrm mesa
+yay -Sy libdrm libglvnd libomxil-bellagio libunwind libva libvdpau libx11 libxdamage libxml2 libxrandr libxshmfence libxxf86vm llvm lm_sensors meson xorgproto python-mako valgrind wayland wayland-protocols libelf libomxil-bellagio libunwind libxdamage libxshmfence libxxf86vm llvm-libs lm_sensors wayland libva-mesa-driver mesa-vdpau opengl-man-pages clang xorgproto elfutils glslang libclc libdrm mesa
 ```
 ## Install already built package 
 
